@@ -145,7 +145,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:background="#C6512F"
-        android:text="Coustermize Dashboard"
+        android:text="Coustomize Dashboard"
         android:textSize="16sp"
         app:backgroundTint="#C6512F"
         app:layout_constraintEnd_toEndOf="parent"
